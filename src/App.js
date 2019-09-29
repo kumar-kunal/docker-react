@@ -11,6 +11,11 @@ function App() {
           Welcome to React World!
         </p>
       </header>
+      <footer>
+        <p>
+          Made in India 💓
+        </p>
+      </footer>
     </div>
   );
 }
